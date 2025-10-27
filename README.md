@@ -16,3 +16,4 @@ You play against the computer — test your luck and logic!
 ```bash
 git clone https://github.com/princechauhann0/Rock-Paper-Scissor-Game.git
 
+cd Rock-Paper-Scissor-Game
